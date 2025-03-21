@@ -1,0 +1,10 @@
+streamlit
+pandas
+joblib
+numpy
+plotly
+tensorflow
+scikit-learn
+poliastro
+astropy
+dash
