@@ -4,8 +4,7 @@ This repository presents a comprehensive approach to analyzing and predicting as
 
 1. **Asteroid Classification Models**: Developed by Rhushikesh Gulave and Shashank Itagi, this section focuses on classifying asteroids based on their physical and orbital parameters. Utilizing algorithms such as Support Vector Machines (SVM) and K-Nearest Neighbors (KNN), the models aim to accurately identify potentially hazardous asteroids (PHAs). citeturn0search1
 
-2. **Orbit Path Prediction Models**: Led by Nikita Shete and Swapnil Jadhav, this segment employs machine learning techniques to predict the orbital paths of asteroids. By analyzing historical trajectory data, the models forecast future positions and assess potential collision risks with Earth. citeturn0search8
-
+2. **Orbit Path Prediction Models**: Led by Nikita Shete and Swapnil Jadhav, this segment employs machine learning techniques to predict the orbital paths of asteroids. By analyzing historical trajectory data, the models forecast future positions and assess potential collision risks with Earth.
 **Key Features**:
 
 - **Data Utilization**: The project leverages extensive datasets from NASA's Small-Body Database, encompassing over 950,000 asteroid entries. citeturn0search0
